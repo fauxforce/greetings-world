@@ -4,15 +4,15 @@
 **                                        **
 ********************************************
 
-TABLE OF CONTENTS:
-
-A. INSTALLATION INSTRUCTIONS
-B. CONFIGURING
-C. SETTING UP A NEW USER
-D. FAQ
-E. TROUBLESHOOTING
-F. CONTACT
-
+TABLE OF CONTENTS: 
+ 
+A. INSTALLATION INSTRUCTIONS 
+B. CONFIGURING 
+C. SETTING UP A NEW USER 
+D. FAQ 
+E. TROUBLESHOOTING 
+F. CONTACT 
+ 
 A. INSTALLATION
 ---------------------
 1. Execute Setup.exe
